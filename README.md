@@ -1,12 +1,50 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# E-Commerce Site
 
-## Available Scripts
+This project is a full-featured E-Commerce application built with ReactJS. It supports user authentication, product listings, and cart functionalities. The app is deployed on Firebase, and the backend API is hosted on Render.
 
-In the project directory, you can run:
+## Live Demo
 
-### `npm start`
+- **Frontend**: [E-Commerce App](https://e-commerce-a3b26.web.app)
+- **Backend API**: [E-Commerce API](https://e-commerce-crud.onrender.com/api)
+
+## Screenshots
+
+### Home Page
+![Home Page](https://github.com/atharva-narkhede/E-CommerceSite_ReactJS/assets/106006803/0dc4bc15-f6aa-4106-b15d-1b3b11a0722a)
+
+### About Us Page
+![About Us Page](https://github.com/atharva-narkhede/E-CommerceSite_ReactJS/assets/106006803/60026dc8-ac8d-4e0e-b623-c0b7cf08a8a4)
+
+### Contact Us Page
+![Contact Us Page](https://github.com/atharva-narkhede/E-CommerceSite_ReactJS/assets/106006803/41a71cce-dd1f-4afc-ba61-162d12473f28)
+
+### Products Page
+![Products Page](https://github.com/atharva-narkhede/E-CommerceSite_ReactJS/assets/106006803/5acfae0f-a810-4aa2-94b5-75ab1fa16510)
+
+### Cart Page
+![Cart Page](https://github.com/atharva-narkhede/E-CommerceSite_ReactJS/assets/106006803/2c335fe1-aebb-44e4-8128-32eca493cbee)
+
+## How to Run
+
+### Clone the repository
+
+```sh
+git clone https://github.com/atharva-narkhede/E-CommerceSite_ReactJS.git
+cd E-CommerceSite_ReactJS
+```
+
+### Install dependencies
+
+```sh
+npm install
+```
+
+### Run the app
+
+```sh
+npm start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -14,30 +52,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+## Backend API
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The backend API repository is available at [E-Commerce CRUD API](https://github.com/atharva-narkhede/E-Commerce_CRUD).
 
 ## Learn More
 
