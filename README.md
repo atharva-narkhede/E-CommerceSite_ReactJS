@@ -6,7 +6,7 @@ This project is a full-featured E-Commerce application built with ReactJS. It su
 ## Live Demo
 
 - **Frontend**: [E-Commerce App](https://e-commerce-a3b26.web.app)
-- **Backend API**: [E-Commerce API](https://e-commerce-crud.onrender.com/api)
+- **Backend API**: [E-Commerce API](https://github.com/atharva-narkhede/E-Commerce_CRUD)
 
 ## Screenshots
 
