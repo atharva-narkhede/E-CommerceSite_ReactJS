@@ -1,4 +1,3 @@
-
 # E-Commerce Site
 
 This project is a full-featured E-Commerce application built with ReactJS. It supports user authentication, product listings, and cart functionalities. The app is deployed on Firebase, and the backend API is hosted on Render.
